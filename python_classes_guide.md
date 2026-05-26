@@ -1,14 +1,6 @@
-# Python Classes — A Human Guide
+# Python Classes — A Breezy Guide
 ### From the problem of organising things to the machinery that makes it possible
 ### Every feature introduced only when the previous feature creates a new need
-
----
-
-## A Note on How This Is Written
-
-This guide does not begin with syntax. It begins with frustration. Every feature of Python's class system exists because someone ran into a real problem and needed a solution. We will follow that path — problem first, solution second, always.
-
-By the end you will not have memorised a list of features. You will understand why each feature exists, which means you will be able to reason about code you have never seen before.
 
 ---
 
